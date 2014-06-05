@@ -1,0 +1,21 @@
+{
+  "name": "newCommAPI",
+  "version": "0.1.0",
+  "description": "Backend API for newcomm mobile app",
+  "main": "server.js",
+  "dependencies": {
+    "forever": "^0.11.1",
+    "nodemon": "^1.1.1",
+    "morgan" : "*",
+    "express" : "4.4.1",
+    "body-parser": "*"
+
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tomaz Bracic",
+  "license": "ISC"
+}
