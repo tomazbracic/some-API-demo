@@ -1,4 +1,4 @@
-new_comm_API
+some API demo
 ============
 
-backend API for communication with mobile/Layer app
+backend API for communication with mobile app
